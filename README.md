@@ -1,5 +1,7 @@
 # README
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
